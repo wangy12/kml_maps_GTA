@@ -1,0 +1,2826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>GTAPubSchools</name>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.285145,43.04441,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4124237,43.7100443,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3505784,43.7917285,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.400034,43.760417,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2358894,43.9017061,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-84.2871485,46.5054388,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-78.813741,44.843497,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3558245,43.8100763,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.449127,43.643209,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4193678,43.7403892,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-78.832022,43.897394,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.476648,43.996497,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4053177,43.8620816,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3838938,43.8186348,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3923468,43.8100414,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4006144,43.7280379,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-83.0404158,42.2666318,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3707831,43.7076049,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3885306,43.7191783,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4388331,44.0480374,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-81.3256923,42.9474536,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.203743,43.530758,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3144835,43.7806724,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.7573287,45.382103,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.315098,43.8016055,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.400977,43.68514,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3558033,43.8654938,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2769899,43.9043959,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2664129,43.7835557,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2914518,43.879743,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3431805,43.8652026,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.8074353,43.3958859,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.4799447,43.4271284,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3031625,43.8980903,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4314603,43.6964205,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.1500922,43.7859979,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-82.9340217,42.1124922,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5653342,43.1953739,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2785366,43.8002146,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.338712,43.799107,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2241675,43.7738836,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-81.3164123,42.9792892,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.360075,43.806089,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.429754,43.824359,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-78.9692842,43.8870963,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.310178,43.88391,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.394984,43.680681,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2780464,43.6793155,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-82.8469391,42.311518,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3178795,43.8086882,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3950161,43.6994457,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3916127,43.6890211,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3640569,43.7452553,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4243784,43.6555086,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-76.443067,44.273231,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-78.870781,43.9138347,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-78.951534,43.882952,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.5084002,43.4714721,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2098014,43.1840379,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.6578272,43.4681337,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.2570389,43.5655633,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.7345244,45.3943901,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.1003035,43.6058337,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4558175,43.9098041,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3371579,43.7925507,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-82.186846,43.04265,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2031061,43.8159484,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2853391,43.0401519,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.7419834,44.4501203,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.285357,43.891178,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5765946,43.8355675,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.427031,43.030136,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.1186121,43.8375938,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2818256,43.1957017,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.606532,44.359693,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5265396,43.1921738,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.1265296,43.8273932,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5434092,43.7385763,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4224349,43.6679335,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3778831,43.7573859,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2270129,43.8560425,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.471691,43.874308,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4156681,43.6795517,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3525019,43.7997045,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.391118,43.770299,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.211175,43.161495,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4519782,43.6502221,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5270795,43.6661201,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4903633,43.6602097,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.2115982,43.5131457,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2701109,43.8026942,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.376826,43.616023,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-81.269903,43.035584,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-78.9601442,43.9076475,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3195323,43.7358382,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3972582,43.8173181,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4949709,43.6126198,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.1030219,43.1168098,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4087062,43.7179475,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.7699988,43.3446337,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4138291,43.6961517,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.933562,45.348856,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.1356492,43.0756188,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.189913,43.808751,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.303275,43.6677918,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.4195229,43.452929,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-74.572169,45.445898,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5613123,43.2014055,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5097581,43.6590555,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.5763686,43.4685223,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.9040631,45.3246073,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3673612,43.8765729,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.7178502,45.2888527,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.291075,43.796573,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3262366,43.8710182,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-81.284142,43.024301,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3778317,43.7045328,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5314164,43.8649161,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5334057,43.8549203,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5839436,43.5637444,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.418847,43.65869,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.179082,43.7938319,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.34017,43.660176,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.7095974,43.4651871,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.1796546,43.509798,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.6624839,43.4528023,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2346517,43.8654917,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.6986193,43.4993089,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.370282,43.7142737,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2428268,43.1366125,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.941828,43.004,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.392008,43.658321,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.408626,43.7017349,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.370891,43.890845,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2262363,43.8248211,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4221574,43.6529153,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3939725,43.7492499,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3413383,43.6702933,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4971673,43.6377585,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.313672,43.866713,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2664128,43.8128421,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5599609,43.8568044,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.1324163,43.9715503,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.455771,43.667683,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4584299,43.8744814,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.215158,43.2131185,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2593637,43.9028049,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.1827583,43.5182799,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-76.243748,44.892054,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-80.9927243,46.4496974,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.7539607,43.4513327,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4128154,43.8847674,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3605345,43.7410917,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.6215657,44.3583521,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.1207717,43.807356,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3823356,43.6775175,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2767823,43.8661741,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4778076,43.6548828,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2861799,43.8411605,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.575648,44.414055,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-81.291932,43.001186,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4028525,43.8814627,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2528536,43.2047166,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.7275015,45.3539166,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-83.0178564,42.2546353,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.427659,43.642959,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.106677,43.158826,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3271589,43.8065385,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3084412,43.8193373,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2955122,43.8909338,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-81.2609299,43.0292268,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4291343,43.741693,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.7117058,43.4591933,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.477049,43.6431373,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.467242,43.83316,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2750133,43.897866,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4563461,43.9027954,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.910261,45.3330438,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.6851353,43.4340679,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5252008,43.8428717,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4332631,43.7020606,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2614361,43.139219,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3615838,43.9854528,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3779314,43.6876427,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.337862,43.6818631,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2822987,43.832194,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3984586,43.829691,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pub2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.3524749,43.6707959,0</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>

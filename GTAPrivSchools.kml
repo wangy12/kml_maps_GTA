@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>GTAPrivSchools</name>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2949948,43.7622184,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.587626,43.605942,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.5</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.667489,45.438168,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.6584939,43.5203168,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.651286,43.708834,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.018469,43.919597,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.558225,43.744575,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.3</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.346634,43.748217,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.2418804,43.7981365,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.9</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-83.0352323,42.2992097,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.7</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.73934,43.7305671,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.249985,43.777927,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.658718,43.631519,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.4</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.821232,43.194729,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.1</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.22986,43.818768,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>9.8</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.5680872,43.6030219,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>10.0</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.658683,43.624883,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.6</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-79.4284159,43.7105226,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>8.2</name>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>F:\project\leetcode\house\pri2.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-75.739749,45.344225,0</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
